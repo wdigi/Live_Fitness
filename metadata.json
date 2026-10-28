@@ -1,0 +1,6 @@
+{
+  "name": "PulseFit AI - Workout & Nutrition Coach",
+  "description": "Mobile fitness app that tracks workouts, calculates burned calories, provides personalized meal plans, and features a customizable AI Coach for real-time nutritional and workout guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
